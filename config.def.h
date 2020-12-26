@@ -8,8 +8,8 @@
 static char *font = "Fira Code Medium:pixelsize=14:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-  "Font Awesome 5 Free Solid:size=12:antialias=true",
-  "Font Awesome 5 Brands Regular:size=12:antialias=true",
+  "Font Awesome 5 Free Solid:size=10:antialias=true",
+  "Font Awesome 5 Brands Regular:size=10:antialias=true",
 };
 
 static int borderpx = 2;
