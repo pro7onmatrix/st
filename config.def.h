@@ -5,10 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Fira Code Medium:pixelsize=14:antialias=true:autohint=true";
+static char *font = "FiraCode Nerd Font:pixelsize=14:style=Regular:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-  "FiraMono Nerd Font:pixelsize=14:antialias=true:autohint=true",
+  "FiraMono Nerd Font Mono:pixelsize=14:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;
@@ -99,7 +99,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.9;
+float alpha = 0.8;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
